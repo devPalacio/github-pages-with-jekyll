@@ -2,8 +2,7 @@ theme: minima
 title: Hello World
 author: Jay Palacio
 email: jaypalacio@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-Getting the basics of github pages. laying the groundwork for a portfolio page.
+description: > Getting the basics of github pages. laying the groundwork for a portfolio page. # this means to ignore newlines until "baseurl:"
 
 # social links
 github_username:  devPalacio
